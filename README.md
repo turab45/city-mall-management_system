@@ -1,1 +1,1 @@
-# shop_management_system
+# Shop Management System
